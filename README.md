@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img src="https://www.google.com/imgres?q=animation%20technology&imgurl=https%3A%2F%2Feducationalvoice.co.uk%2Fwp-content%2Fuploads%2F2024%2F05%2Fimage-76.jpeg&imgrefurl=https%3A%2F%2Feducationalvoice.co.uk%2Fanimation-landscape%2F&docid=oWaso2u5oPLHjM&tbnid=buHWwCGeZNX8aM&vet=12ahUKEwjRvOXQoPiLAxVTT2wGHRSpOBcQM3oECGAQAA..i&w=1216&h=832&hcb=2&ved=2ahUKEwjRvOXQoPiLAxVTT2wGHRSpOBcQM3oECGAQAA" align="right" alt="" >
 
